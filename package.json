@@ -1,6 +1,6 @@
 {
   "name": "pi-review-loop",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "description": "A persistent incremental diff review loop for pi",
   "main": "src/index.ts",
   "scripts": {
